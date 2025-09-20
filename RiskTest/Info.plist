@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSAllowsArbitraryLoadsUsageDescription</key>
+		<dict/>
+	</dict>
+	<key>NSHealthShareUsageDescription</key>
+	<string>Bu uygulama kalp sağlığı riskini değerlendirmek için adım sayısı, kalp atış hızı, uyku ve egzersiz verilerinize erişmek ister.</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>Bu uygulama sağlık verilerinizi güncellemek için HealthKit&apos;e erişmek ister.</string>
+	<key>NSUserNotificationsUsageDescription</key>
+	<string>Bu uygulama kalp sağlığınızla ilgili önemli uyarıları size bildirmek için bildirim gönderir.</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>healthkit</string>
+	</array>
+</dict>
+</plist>
