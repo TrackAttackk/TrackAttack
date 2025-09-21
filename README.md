@@ -51,7 +51,7 @@ Model eğitimi sürecinde kalp ritmi verileri üzerinde veri ön işleme, özell
    </tr>
   </table>
 
-  <h4>Bilet Atak Ekle ve Nefes Al Ekranları</h4>
+  <h4>Atak Ekle ve Nefes Al Ekranları</h4>
   <table>
     <tr>
       <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/addAttack.png" width="200"/></td>
