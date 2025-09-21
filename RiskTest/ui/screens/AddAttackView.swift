@@ -5,7 +5,6 @@
 //  Created by selinay ceylan on 16.09.2025.
 //
 
-
 import SwiftUI
 import FirebaseAuth
 
@@ -33,12 +32,10 @@ struct AddAttackView: View {
             ScrollView(showsIndicators: false) {
                 VStack(alignment: .leading, spacing: 35) {
                     
+                    // Tarih ve Saat
                     VStack(alignment: .leading) {
                         Text("Tarih ve Saat").font(.title3).bold()
-                        
-                        Button(action: {
-                            showingDatePicker = true
-                        }) {
+                        Button(action: { showingDatePicker = true }) {
                             HStack {
                                 Text(formatDateForDisplay(selectedDate))
                                     .foregroundColor(.primary)
@@ -52,6 +49,7 @@ struct AddAttackView: View {
                         }
                     }
                     
+                    // Süre
                     VStack(alignment: .leading) {
                         Text("Süre").font(.title3).bold()
                         TextField("Dakika", text: $sure)
@@ -61,6 +59,7 @@ struct AddAttackView: View {
                             .keyboardType(.numberPad)
                     }
                     
+                    // Şiddet Seviyesi
                     VStack(alignment: .leading) {
                         Text("Şiddet Seviyesi").font(.title3).bold()
                         
@@ -91,6 +90,7 @@ struct AddAttackView: View {
                             .padding(.top, 25)
                     }
                     
+                    // Tetikleyici Faktörler
                     VStack(alignment: .leading) {
                         Text("Tetikleyici Faktörler").font(.title3).bold()
                         
@@ -106,6 +106,7 @@ struct AddAttackView: View {
                         }
                     }
                     
+                    // Ek Notlar
                     VStack(alignment: .leading) {
                         Text("Ek Notlar").font(.title3).bold()
                         
@@ -117,17 +118,9 @@ struct AddAttackView: View {
                             .frame(minHeight: 80, maxHeight: 120)
                     }
                     
-                    Button(action: {
+                    // Default iOS Button
+                    Button("Atağı Kaydet") {
                         Task { await saveAttack() }
-                    }) {
-                        Text("Atağı Kaydet")
-                            .font(.title2)
-                            .fontWeight(.bold)
-                            .foregroundColor(.white)
-                            .frame(maxWidth: .infinity)
-                            .padding(.vertical, 10)
-                            .background(AppColor.mainColor)
-                            .cornerRadius(10)
                     }
                     .padding(.bottom, 20)
                 }
@@ -138,21 +131,12 @@ struct AddAttackView: View {
             .toolbarBackground(.visible, for: .navigationBar)
             .toolbarColorScheme(.light, for: .navigationBar)
             .toolbar {
+                // Logo
                 ToolbarItem(placement: .principal) {
                     Image("trackattack")
                         .resizable()
                         .scaledToFit()
                         .frame(height: 30)
-                }
-                
-                ToolbarItem(placement: .navigationBarLeading) {
-                    Button(action: {
-                        dismiss()
-                    }) {
-                        Image(systemName: "chevron.left")
-                            .foregroundColor(.white)
-                            .font(.system(size: 16, weight: .semibold))
-                    }
                 }
             }
         }
@@ -190,14 +174,13 @@ struct AddAttackView: View {
             .presentationDetents([.medium])
         }
         .alert("Atak Kaydedildi", isPresented: $showingSaveAlert) {
-            Button("Tamam") {
-                dismiss()
-            }
+            Button("Tamam") { dismiss() }
         } message: {
             Text(saveMessage)
         }
     }
     
+    // MARK: - Fonksiyonlar
     private func saveAttack() async {
         let tetikleyiciler = [
             isStresSelected ? "Stres" : nil,
@@ -221,7 +204,6 @@ struct AddAttackView: View {
         
         if success {
             resetForm()
-            
             saveMessage = "Atak başarıyla kaydedildi! Anasayfaya yönlendiriliyorsunuz..."
             showingSaveAlert = true
         } else {
@@ -250,6 +232,6 @@ struct AddAttackView: View {
     }
 }
 
-    #Preview {
-        AddAttackView()
-    }
+#Preview {
+    AddAttackView()
+}
