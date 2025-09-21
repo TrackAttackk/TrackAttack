@@ -4,10 +4,9 @@
 Track Attack
 
 ## Uygulama Açıklaması
-Track Attack, kalp ritim bozukluğu yaşayan bireylerin ataklarını takip etmesine, yapay zekâ desteğiyle kişisel risk tahmini yapmasına ve acil durumlarda destek almasına olanak tanıyan bir mobil sağlık uygulamasıdır.
-Uygulama SwiftUI ile geliştirilmiş olup, Apple HealthKit entegrasyonu sayesinde kullanıcıların kalp ritmi verilerini güvenli bir şekilde toplayabilmektedir. Toplanan bu veriler, özel olarak eğitilmiş Core ML (mlmodel) tabanlı bir yapay zeka modeli aracılığıyla analiz edilerek kullanıcıya kişiselleştirilmiş risk tahminleri sunar.
-Ek olarak, Gemini API entegrasyonu sayesinde uygulama, yapay zeka destekli açıklamalar ve öneriler üreterek kullanıcıya daha bilinçli kararlar alması için destek sağlar.
-Model eğitimi sürecinde kalp ritmi verileri üzerinde veri ön işleme, özellik çıkarımı ve sınıflandırma yöntemleri uygulanmış; sonuç olarak kalp ritim bozukluğu riski tahmini yapabilen bir makine öğrenimi modeli oluşturulmuştur.
+Track Attack, kalp ritim bozukluğu yaşayan bireylerin ataklarını takip etmesine, yapay zekâ desteğiyle kişisel risk tahmini yapmasına ve acil durumlarda destek almasına olanak tanıyan bir mobil sağlık uygulamasıdır. Uygulama SwiftUI ile geliştirilmiş olup, Apple HealthKit entegrasyonu sayesinde kullanıcıların kalp ritmi verilerini güvenli bir şekilde toplayabilmektedir. Toplanan bu veriler, özel olarak eğitilmiş Core ML (mlmodel) tabanlı bir yapay zeka modeli aracılığıyla analiz edilerek kullanıcıya kişiselleştirilmiş risk tahminleri sunar. Kullanıcının kalp sağlığı risk seviyesi “Düşük → Orta” veya “Orta → Yüksek” gibi artarsa, uygulama uyarı bildirimi gönderir. 
+
+Ek olarak, Gemini API entegrasyonu sayesinde uygulama, yapay zekâ destekli açıklamalar ve öneriler üreterek kullanıcıya daha bilinçli kararlar alması için destek sağlar. Model, kalp ritmi verileri üzerinde veri ön işleme ve özellik çıkarımı adımları uygulanarak eğitilmiş ve kalp ritim bozukluğu riskini tahmin edebilecek şekilde sınıflandırılmıştır.
 
 ## Hedef Kitle
 * WPW (Wolff-Parkinson-White) sendromu yaşayan bireyler
