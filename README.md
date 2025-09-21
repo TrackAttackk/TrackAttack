@@ -44,11 +44,18 @@ Model eğitimi sürecinde kalp ritmi verileri üzerinde veri ön işleme, özell
   <table>
     <tr>
       <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/homeView.png" width="200"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/addAttack.png" width="200"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/breathing.png" width="200"/></td>
       <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/historyAttack.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/detailAttack.png" width="200"/></td>
       <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/chatbot.png" width="200"/></td>
       <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/profile.png" width="200"/></td>
+   </tr>
+  </table>
+
+  <h4>Bilet Alma ve Hesabım Ekranları</h4>
+  <table>
+    <tr>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/addAttack.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/breathing.png" width="200"/></td>
    </tr>
   </table>
 
