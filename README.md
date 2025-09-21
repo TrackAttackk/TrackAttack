@@ -20,7 +20,7 @@ Model eğitimi sürecinde kalp ritmi verileri üzerinde veri ön işleme, özell
 <details>
   <summary><h3>Screenshots</h3></summary>
 
-  <h4> Giriş ve Anasayfa Ekranları</h4>
+  <h4> Kayıt ol ve Giriş Yap Ekranları</h4>
   <table>
     <tr>
       <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/signUp.png" width="200"/></td>
@@ -28,7 +28,7 @@ Model eğitimi sürecinde kalp ritmi verileri üzerinde veri ön işleme, özell
     </tr>
   </table>
 
-  <h4>Bilet Alma ve Hesabım Ekranları</h4>
+  <h4>Bilgileri Ekle Ekranları</h4>
   <table>
     <tr>
       <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/name.png" width="200"/></td>
@@ -40,7 +40,7 @@ Model eğitimi sürecinde kalp ritmi verileri üzerinde veri ön işleme, özell
     </tr>
   </table>
 
-  <h4>Bilet Alma ve Hesabım Ekranları</h4>
+  <h4>Anasayfa, Geçmiş Ataklar, Sohbet ve Profil Ekranları</h4>
   <table>
     <tr>
       <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/homeView.png" width="200"/></td>
@@ -51,7 +51,7 @@ Model eğitimi sürecinde kalp ritmi verileri üzerinde veri ön işleme, özell
    </tr>
   </table>
 
-  <h4>Bilet Alma ve Hesabım Ekranları</h4>
+  <h4>Bilet Atak Ekle ve Nefes Al Ekranları</h4>
   <table>
     <tr>
       <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/addAttack.png" width="200"/></td>
