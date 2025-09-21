@@ -43,19 +43,19 @@ Model eğitimi sürecinde kalp ritmi verileri üzerinde veri ön işleme, özell
   <h4>Anasayfa, Geçmiş Ataklar, Sohbet ve Profil Ekranları</h4>
   <table>
     <tr>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/homeView.png" width="200"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/historyAttack.png" width="200"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/detailAttack.png" width="200"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/chatbot.png" width="200"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/profile.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/homeView.png" width="150"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/historyAttack.png" width="150"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/detailAttack.png" width="150"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/chatbot.png" width="150"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/profile.png" width="150"/></td>
    </tr>
   </table>
 
   <h4>Atak Ekle ve Nefes Al Ekranları</h4>
   <table>
     <tr>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/addAttack.png" width="200"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/breathing.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/addAttack.png" width="150"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/breathing.png" width="150"/></td>
    </tr>
   </table>
 
