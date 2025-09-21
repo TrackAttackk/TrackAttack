@@ -31,12 +31,12 @@ Model eğitimi sürecinde kalp ritmi verileri üzerinde veri ön işleme, özell
   <h4>Bilgileri Ekle Ekranları</h4>
   <table>
     <tr>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/name.png" width="200"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/age.png" width="200"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/gender.png" width="200"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/smoking.png" width="200"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/family.png" width="200"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/attack.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/name.png" width="150"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/age.png" width="150"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/gender.png" width="150"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/smoking.png" width="150"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/family.png" width="150"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/attack.png" width="150"/></td>
     </tr>
   </table>
 
