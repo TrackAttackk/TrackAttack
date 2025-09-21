@@ -23,8 +23,8 @@ Model eğitimi sürecinde kalp ritmi verileri üzerinde veri ön işleme, özell
   <h4> Kayıt ol ve Giriş Yap Ekranları</h4>
   <table>
     <tr>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/signUp.png" width="100"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/signIn.png" width="100"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/signUp.png" width="150"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/signIn.png" width="150"/></td>
     </tr>
   </table>
 
