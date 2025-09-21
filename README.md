@@ -23,21 +23,33 @@ Model eğitimi sürecinde kalp ritmi verileri üzerinde veri ön işleme, özell
   <h4> Giriş ve Anasayfa Ekranları</h4>
   <table>
     <tr>
-      <td><img src="https://github.com/Selinayceylann/FindAFlight/blob/main/TravelApplication2/screenshots2/girisyap.png" width="200"/></td>
-      <td><img src="https://github.com/Selinayceylann/FindAFlight/blob/main/TravelApplication2/screenshots2/kayitol.png" width="200"/></td>
-      <td><img src="https://github.com/Selinayceylann/FindAFlight/blob/main/TravelApplication2/screenshots2/anasayfa.png" width="200"/></td>
-      <td><img src="https://github.com/Selinayceylann/FindAFlight/blob/main/TravelApplication2/screenshots2/koltuksecimi.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/signUp.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/signIn.png" width="200"/></td>
     </tr>
   </table>
 
   <h4>Bilet Alma ve Hesabım Ekranları</h4>
   <table>
     <tr>
-      <td><img src="https://github.com/Selinayceylann/FindAFlight/blob/main/TravelApplication2/screenshots2/biletal.png" width="200"/></td>
-      <td><img src="https://github.com/Selinayceylann/FindAFlight/blob/main/TravelApplication2/screenshots2/seyehatlerim.png" width="200"/></td>
-      <td><img src="https://github.com/Selinayceylann/FindAFlight/blob/main/TravelApplication2/screenshots2/rezervasyonlarım.png" width="200"/></td>
-      <td><img src="https://github.com/Selinayceylann/FindAFlight/blob/main/TravelApplication2/screenshots2/hesabım.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/name.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/age.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/gender.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/smoking.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/family.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/attack.png" width="200"/></td>
     </tr>
+  </table>
+
+  <h4>Bilet Alma ve Hesabım Ekranları</h4>
+  <table>
+    <tr>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/homeView.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/addAttack.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/breathing.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/historyAttack.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/chatbot.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/profile.png" width="200"/></td>
+   </tr>
   </table>
 
 </details>
