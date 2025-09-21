@@ -30,23 +30,23 @@ Toplanan veriler, özel olarak eğitilmiş Core ML (mlmodel) tabanlı bir yapay 
   <h4>Bilgileri Ekle Ekranları</h4>
   <table>
     <tr>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/name.png" width="150"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/age.png" width="150"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/gender.png" width="150"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/smoking.png" width="150"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/family.png" width="150"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/attack.png" width="150"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/name.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/age.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/gender.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/smoking.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/family.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/attack.png" width="200"/></td>
     </tr>
   </table>
 
   <h4>Anasayfa, Geçmiş Ataklar, Sohbet ve Profil Ekranları</h4>
   <table>
     <tr>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/homeView.png" width="150"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/historyAttack.png" width="150"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/detailAttack.png" width="150"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/chatbot.png" width="150"/></td>
-      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/profile.png" width="150"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/homeView.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/historyAttack.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/detailAttack.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/chatbot.png" width="200"/></td>
+      <td><img src="https://github.com/TrackAttackk/TrackAttack/blob/main/Screenshots/profile.png" width="200"/></td>
    </tr>
   </table>
 
